@@ -2,4 +2,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhavendra-Naruka&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Madhavendra-Naruka)
